@@ -9,18 +9,18 @@
   }
   
   #inicio { 
-    
-    background-repeat: no-repeat;
+    background-image: url(img/diseno-programacion-web.jpg);
     background-size: auto;
     padding: 25px;
-    color:  #5E5A5B ;
+    color:  rgb(224, 209, 209) ;
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: center;
+
   }
   h1 {
-    text-align: right;
+    text-align: left;
     background-position: top;
      
      
@@ -64,6 +64,20 @@ h2 {
   font-family: 'Bebas Neue', cursive;
   text-align: center;
   margin-top: 25px;
+  }
+  #btn {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: 1rem 39rem;
+    padding: 1% 10%;
+    width: max-content;
+    background-color: rgb(61, 65, 65);
+    color: azure;
+    font-family: 'Bebas Neue', cursive;
+   font-size: medium;
+
   }
 
   
