@@ -1,0 +1,50 @@
+.cabezera{
+    text-align: center;
+
+}
+h2{
+ text-align: center;
+ background-color:rgb(201, 230, 230);
+ padding-top: 0.2%;
+ padding-bottom: 0.2%;
+
+}
+.perfil{
+    text-align: justify;
+    text-decoration: solid;
+
+}
+h4{
+    font-style: italic;
+}
+.a{
+    list-style-type: circle;
+    text-align: justify;
+}
+#ref{
+    font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+#ref td,#ref th{
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+#ref tr:hover {background-color: #ddd;}
+#ref tr:nth-child(even){background-color:rgb(231, 246, 247);
+}
+#ref th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+  }
+
+  #img{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+  }
