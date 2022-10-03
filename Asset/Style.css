@@ -66,18 +66,16 @@ h2 {
   margin-top: 25px;
   }
   #btn {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    justify-content: center;
-    margin: 1rem 39rem;
-    padding: 1% 10%;
-    width: max-content;
+    padding: 0.5% 2%;
+    width: fit-content;
     background-color: rgb(61, 65, 65);
     color: azure;
     font-family: 'Bebas Neue', cursive;
    font-size: medium;
 
+  }
+  a {
+    text-decoration: none;
   }
 
   
